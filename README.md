@@ -16,7 +16,10 @@ License for HTML theme: Developer
 Gaia private repositories: 
 
 
-[Gaia 2.5](https://github.com/e107-Gaia-Hestia-themes/Hestia-1.1)  - made for 2.2, works with 2.3.0, version 2.5.
+[Gaia 2.5](https://github.com/e107-Gaia-Hestia-themes/Gaia-2.5)  - made for 2.2, works with 2.3.0, version 2.5.
 
-[Gaia 3.0](https://github.com/e107-Gaia-Hestia-themes/Gaia-3.0)  - made for 2.3.1 only
+[Gaia 3.0](https://github.com/e107-Gaia-Hestia-themes/Gaia-3.0)  - made for 2.3.1 only, mainly for update, 3.0.2
+
+[Gaia 3.1](https://github.com/e107-Gaia-Hestia-themes/Gaia-3.1)  - made for 2.3.1 only, new features, 3.1.0 
+ 
  

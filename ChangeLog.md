@@ -17,6 +17,15 @@ Related changes for themes:
 - [x] HTML layout 
 - [ ] Full library support
 
+# Gaia 3.1.0
+- [x] Added support for variable branding 
+
+
+# Gaia 3.0.2
+
+- [x] Fixed for PHP 8 login standalone page
+ 
+
 # Gaia 3.0.0
 
 - Added parent theme 
